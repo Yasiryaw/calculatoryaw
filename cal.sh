@@ -2,6 +2,7 @@ hi this is just a test
 # just to add more stuff. 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 1+2 = 4
 
 
@@ -11,3 +12,7 @@ hi this is just a test
 
 #test on calculator 
 >>>>>>> 95e5b9e ( little change for the main)
+=======
+1+2 = 3
+
+
